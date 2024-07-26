@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-<p>Welcome to my page! </br> I'm Do Huy Hung, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197473.png" width="13"/> <b>Hanoi, Vietnam</b>.</p>
+<p>Welcome to my page! </br> I'm Do Huy Hung, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197473.png" width="20"/> <b>Hanoi, Vietnam</b>.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
@@ -17,7 +17,7 @@
   <img alt="Fastapi" src="https://img.shields.io/badge/-Fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
 
   <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" />
-  <img alt="Phoenix Framework" src="https://img.shields.io/badge/-PhoenixFramework-4B275F?style=flat-square&logo=phoenixframework&logoColor=white" />
+  <img alt="Phoenix Framework" src="https://img.shields.io/badge/-PhoenixFramework-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white" />
 
   <img alt="Gnubash" src="https://img.shields.io/badge/-Gnubash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 
@@ -34,13 +34,13 @@
   <img alt="tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 
-  <img alt="mysql" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="postgresql" src="https://img.shields.io/badge/-Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="oracle" src="https://img.shields.io/badge/-OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white" />
-
   <img alt="redis" src="https://img.shields.io/badge/-Redis-F80000?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="amazondynamodb" src="https://img.shields.io/badge/-Dynamodb-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
-  <img alt="mongodb" src="https://img.shields.io/badge/-Mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="amazondynamodb" src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+  <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
   <img alt="linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="macos" src="https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=macos&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker&logoColor=white" />
@@ -50,6 +50,9 @@
   <img alt="amazonwebservices" src="https://img.shields.io/badge/-Amazon Webs Services-326CE5?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img alt="cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-squeare&logo=git&logoColor=white" />
+  <img alt="chromewebstore" src="https://img.shields.io/badge/-Chrome Extension-4285F4?style=flat-squeare&logo=chromewebstore&logoColor=white" />
+
+
 
 </p>
 
