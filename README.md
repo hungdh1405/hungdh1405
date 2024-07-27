@@ -70,4 +70,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Snake animation](https://raw.githubusercontent.com/hungdh1405/hungdh1405/output/github-contribution-grid-snake-dark.svg)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hungdh1405)]
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hungdh1405)
