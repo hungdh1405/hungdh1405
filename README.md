@@ -55,6 +55,7 @@
 
 
 </p>
+<p>AWS Certified Solutions Architect – Professional: https://www.credly.com/badges/bd995d60-c491-4b9f-9257-2c7205bad8c5</p>
 
 ### 📫 **How to reach me**:
 
